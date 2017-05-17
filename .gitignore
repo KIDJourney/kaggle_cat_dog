@@ -1,0 +1,5 @@
+data
+output
+models
+*.pyc
+.ipynb_checkpoints
